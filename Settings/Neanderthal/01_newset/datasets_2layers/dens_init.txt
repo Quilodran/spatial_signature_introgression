@@ -1,0 +1,11 @@
+3
+Nean	200	4700	2600	0	0	0	0.0	0	0
+AncestralHM	200	2300	2700	0	0	0	0.0	0	0
+MH	800	2300	2700	0	0	0	0.2	1	200
+
+
+Pop_name pop_size Lat Long ResizeA Time_ResizeB ResizeB MigrationFromCurrentSource Layer TimeOfExpansion
+
+
+
+

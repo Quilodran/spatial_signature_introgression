@@ -1,0 +1,4 @@
+3
+0 ./settings_square_2Pop_introgression/veg2K_uni0_k50.txt Time1
+1 ./settings_square_2Pop_introgression/veg2K_uni02_k50.txt Time2
+2 ./settings_square_2Pop_introgression/veg2K_uni_k500.txt Time3

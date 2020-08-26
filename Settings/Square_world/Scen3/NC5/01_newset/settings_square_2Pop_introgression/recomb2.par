@@ -1,0 +1,4 @@
+1 //Num chromosomes
+#chromosome 1, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition matrix: frequency A, frequency C, frequency G, frequency T, rate AC, rate AG, rate AT, rate CG, rate CT, rate GT
+1
+DNA    300   0.0    0.00025   0.25   0.25   0.25   0.25   3.0   1.0   3.0   3.0   1.0   3.0

@@ -1,0 +1,5 @@
+3
+popi	50	0	0	100	0	0	0	0	0
+popi2	50	99	99	100	0	0	0	0	0
+popj	50	99	99	100	0	0	0	1	1
+Pop_name pop_size Lat Long ResizeA Time_ResizeB ResizeB MigrationFromCurrentSource NoPop TimeOfExpansion

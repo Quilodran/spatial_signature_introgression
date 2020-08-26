@@ -1,0 +1,2 @@
+1
+1 ./settings_square_2Pop_introgression/veg2K_P2_k500.txt Time1

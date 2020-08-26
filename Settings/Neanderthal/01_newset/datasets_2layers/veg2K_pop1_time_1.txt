@@ -1,0 +1,7 @@
+1	0	Modern Humans
+2	200	Neanderthals
+3	200	MiddleEast
+4	0	ExtremeNorth
+10	0	LowHimalaya
+11	0	MediumHimalaya
+12	0	HighHimalaya

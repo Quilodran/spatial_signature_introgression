@@ -1,0 +1,4 @@
+TIMES OF ARRIVAL
+leftbottomcorner : 577
+middle : 293
+righttopcorner : 1
